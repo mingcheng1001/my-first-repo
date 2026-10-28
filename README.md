@@ -1,2 +1,3 @@
 # my-first-repo
-My first GitHub repo - testing WorkBuddy integration
+
+WorkBuddy GitHub 集成测试。
